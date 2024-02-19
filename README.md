@@ -12,3 +12,4 @@
 5. opencv
 
 ### Preferably run with a cuda enabled gpu
+### None of the dataset are uploaded to the github as they are huge but can be uploaded to google cloud (i dont have enough space in my google cloud)
