@@ -8,5 +8,7 @@
 1. pytorch ver == '2.2.0+cu121'
 2. detectron2
 3. transformers
+4. easyocr
+5. opencv
 
 ### Preferably run with a cuda enabled gpu
